@@ -10,6 +10,7 @@ public class LoginDemo_240708 {
 				System.out.println("right");
 			} else {
 				System.out.println("wrong");
+				System.out.println("yeah~");
 			}
 
 		} else {
